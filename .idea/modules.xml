@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aulas_LPOO.iml" filepath="$PROJECT_DIR$/Aulas_LPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objetivo1_Lista1/Objetivo1_Lista1.iml" filepath="$PROJECT_DIR$/Objetivo1_Lista1/Objetivo1_Lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objetivo2_HerancaSimples/Objetivo2_HerancaSimples.iml" filepath="$PROJECT_DIR$/Objetivo2_HerancaSimples/Objetivo2_HerancaSimples.iml" />
     </modules>
   </component>
 </project>
