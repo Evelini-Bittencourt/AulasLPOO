@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2024_2/2024_2.iml" filepath="$PROJECT_DIR$/2024_2/2024_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aulas_LPOO.iml" filepath="$PROJECT_DIR$/Aulas_LPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objetivo1_Lista1/Objetivo1_Lista1.iml" filepath="$PROJECT_DIR$/Objetivo1_Lista1/Objetivo1_Lista1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objetivo2_HerancaMultipla/Objetivo2_HerancaMultipla.iml" filepath="$PROJECT_DIR$/Objetivo2_HerancaMultipla/Objetivo2_HerancaMultipla.iml" />
