@@ -1,6 +1,7 @@
 package model;
 
 public class Gerente extends Funcionario{
+    //esqueci o "abstract"
     private double taxaDeBonificacao;
 
     public Gerente() {

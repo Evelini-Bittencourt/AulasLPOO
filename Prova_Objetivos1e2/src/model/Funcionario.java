@@ -1,6 +1,7 @@
 package model;
 
 public class Funcionario implements Socio{
+    //esqueci o "abstract"
     protected int quantidadeDeAcoes;
     protected double valorDaAcao;
     protected String nome;
