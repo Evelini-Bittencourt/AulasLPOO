@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2023/2023.iml" filepath="$PROJECT_DIR$/2023/2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/2024_1/2024_1.iml" filepath="$PROJECT_DIR$/2024_1/2024_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/2024_2/2024_2.iml" filepath="$PROJECT_DIR$/2024_2/2024_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aulas_LPOO.iml" filepath="$PROJECT_DIR$/Aulas_LPOO.iml" />
@@ -14,7 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/Objetivo3e4_Preparatorio/Objetivo3e4_Preparatorio.iml" filepath="$PROJECT_DIR$/Objetivo3e4_Preparatorio/Objetivo3e4_Preparatorio.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objetivo4_Lista1/Objetivo4_Lista1.iml" filepath="$PROJECT_DIR$/Objetivo4_Lista1/Objetivo4_Lista1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PreparatorioAvaliacao_Objetivos1e2/PreparatorioAvaliacao_Objetivos1e2.iml" filepath="$PROJECT_DIR$/PreparatorioAvaliacao_Objetivos1e2/PreparatorioAvaliacao_Objetivos1e2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2023/ProvaObjetivo3/ProvaObjetivo3.iml" filepath="$PROJECT_DIR$/2023/ProvaObjetivo3/ProvaObjetivo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prova_Objetivos1e2/Prova_Objetivos1e2.iml" filepath="$PROJECT_DIR$/Prova_Objetivos1e2/Prova_Objetivos1e2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prova_Objetivos3_4_5/Prova_Objetivos3_4_5.iml" filepath="$PROJECT_DIR$/Prova_Objetivos3_4_5/Prova_Objetivos3_4_5.iml" />
     </modules>
   </component>
 </project>
